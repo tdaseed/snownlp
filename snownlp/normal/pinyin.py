@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*- this is a test line
 from __future__ import unicode_literals
 
 import codecs
